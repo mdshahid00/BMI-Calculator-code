@@ -25,7 +25,8 @@ Other files:
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
+- javascript
+- bootstrap
 
 ## Live Demo
 (Coming soon)
